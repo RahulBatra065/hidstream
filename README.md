@@ -1,5 +1,11 @@
 # HIDSTREAM
 __Streaming HID Events in Node.js__
+## Forked Repo
+Custom revision to control HIDs on end user systems
+Please do not fork this repo for sanity purposes      
+ [![Generic badge](https://img.shields.io/badge/RAHUL%20BATRA-2019-GREEN.svg)](https://rahulbatra.in)
+
+
 
 
 Wraps [node-hid](https://github.com/node-hid/node-hid) with several parsers for common
